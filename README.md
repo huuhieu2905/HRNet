@@ -17,12 +17,14 @@ git clone https://github.com/huuhieu2905/HRNet.git
 
 #### HRNetV2 pretrained models
 Download pretrained models: [OneDrive](https://onedrive.live.com/?authkey=%21AMkPimlmClRvmpw&id=F7FD0B7F26543CEB%21112&cid=F7FD0B7F26543CEB&parId=root&parQt=sharedby&o=OneUp)
-Download model trained on 300W dataset: [OneDrive](https://onedrive.live.com/?authkey=%21AILmza1XU%2D4WhnQ&id=735C9ADA5267A325%21121&cid=735C9ADA5267A325&parId=root&parQt=sharedby&o=OneUp)
+
 ```bash
 cd HRNet-Facial-Landmark-Detection
 mkdir hrnetv2_pretrained
 # Download pretrained models into this folder
 ```
+Download model trained on 300W dataset: [OneDrive](https://onedrive.live.com/?authkey=%21AILmza1XU%2D4WhnQ&id=735C9ADA5267A325%21121&cid=735C9ADA5267A325&parId=root&parQt=sharedby&o=OneUp)
+
 #### Data
 
 1. You need to download data from [OneDrive](https://husteduvn-my.sharepoint.com/:u:/g/personal/hieu_nh215577_sis_hust_edu_vn/EZIcld4MRKROqEg8-Jg029kBWmoDRCPTJSZLXIDjQT3NqQ?e=BCF5er)
